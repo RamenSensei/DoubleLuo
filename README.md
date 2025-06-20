@@ -16,3 +16,5 @@
 [IMS当事人来啦！](https://github.com/fuckuestc/DoubleLuo/issues/12)  
 
 
+
+访问最新阅读页面: https://fuckuestc.github.io/DoubleLuo/
